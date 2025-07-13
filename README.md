@@ -32,7 +32,7 @@ As part of my internship at **Prodigy InfoTech**, I worked on a Generative AI pr
 
 > 📷 *Below is a screenshot of the final working output of the model with real-time user queries:*
 
-**[Insert your screenshot here]**  
+**[(https://github.com/Yamini192211153/PRODIGY_GA_01/blob/main/GA_Task_1_output.png)]**  
 
 ---
 
